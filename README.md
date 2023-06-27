@@ -1,3 +1,7 @@
 ## Estudo de entrada de dados
 
-O presente repositório foi criado para estudo do objeto "Scanner" através do curso "Aprendendo a sintaxe java" no Dio.me
+Estudo sobre  entrada de dados pelo usuário com a utilização da função 'scanner'.
+
+Scanner ~nomedoscanner~ = new Scanner(System.in)
+
+🖋 Por Eduardo Ferreira @basiern através da disciplina Aprendendo a sintaxe java, no Bootcamp Java Developer na Dio.me.
